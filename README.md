@@ -1,61 +1,8 @@
 # Weekly Nerd @cmda-minor-web · 2019-2020
 
-Elke week is er op woensdagmiddag de Weekly Nerd: 
-Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+Here you can find the articles I wrote during the minor web development. The first article is about the 3 layers of progressive enhancement. The second is about the difference and use of position relative and position absolute. The third article is about computer vision syndrome, this is caused by looking at a screen for too long.
 
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Orienteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
-
-## Werkwijze
-Elke week wordt er een presentatie gegeven door iemand uit het vakgebied. 
-Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
-
-
-Maak van iedere presentatie sketch-notes / aantekeningen en verzamel die op een blog. 
-Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
-
-
-## Criteria
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Je mag niet meer dan 1 Weekly Nerd missen. 
-Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
-
-
-3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.
-
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
-
-
-### Voorbeelden van voorgaande jaren
-
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
-
-
-## Programma
-
-### Workshops, praatjes en lezingen
-
-
-| Datum  |  Wat/Wie | Waar  | Link | 
-|---|---|---|---|
-| 13 Februari  | Hidde de Vries - Toegankelijkheid en CSS expert bij W3C  | BPH 01B11  |   |
-| 19 Februari  | Sanne 't Hoofd - Code en UX  | BPH 01B11  |   |
-| 26 Februari  | FUNDA - Scrum en proof-of-concept  | Funda  |   |
-| ~~11 Maart~~  | ~~Voorhoede - PE~~ | ~~de Voorhoede~~  |   |
-| ~~18 Maart~~  | ~~Bol.com~~  | ~~Bol.com~~  |   |
-|   |   |   |   |   |
-
-
-
-
+## Articles
+- [3 Layers of progressive enhancement](https://medium.com/@lunamayjohansson/3-layers-of-progressive-enhancement-84ec77424694)   
+- [Position absolute relative](https://medium.com/@lunamayjohansson/position-absolute-relative-94a95c030ce8)   
+- [Computer vision syndrome](https://medium.com/@lunamayjohansson/computer-vision-syndrome-ed19eb010b0c)   
